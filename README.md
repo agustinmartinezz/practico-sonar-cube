@@ -283,5 +283,3 @@ Here are the links to slides from the presentation
 - [![OSS Days - Serverless Event Driven Containers with KEDA - 30 October 2020](/images/oss-days-30-october-2020.jfif)](https://youtu.be/-bAlWBbRtEw?t=11049)
 
 - [![OSS Days - Serverless Event Driven Containers with KEDA - Edureca - 30 October 2020](/images/oss-days-edureca-30-october-2020.PNG)](https://youtu.be/a_gqfKXK874?t=11141)
-
-
